@@ -2,6 +2,7 @@
 
 import sys
 import random
+from pdb import set_trace as db
 
 numbers=[]
 indexes=[]

@@ -2,6 +2,7 @@
 
 import sys
 import random
+from pdb import set_trace as db
 
 articles = ["the", "a", "another", "her", "his"]
 subjects = ["cat", "dog", "horse", "man", "woman", "boy", "girl"]

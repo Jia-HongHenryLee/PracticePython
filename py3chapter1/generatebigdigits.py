@@ -2,6 +2,7 @@
 #print big number
 
 import sys
+from pdb import set_trace as db
 
 Zero = ["  ***  ",
         " *   * ",
